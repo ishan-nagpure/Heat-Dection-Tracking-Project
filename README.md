@@ -1,10 +1,12 @@
-Hello this is my first project into the eletronics feild.
+Hello everyone! 👋
 
-check the project_info for project related information.
+This marks my very first deep dive into the field of electronics. ⚡
+It took me about a month of learning, testing, and building to bring this to life. I’ve uploaded everything you need to understand how it works:
 
-The code for the same is also provided. 
+📄 [Project Info](https://github.com/ishan-nagpure/Heat-Dection-Tracking-Project/blob/main/Project_Info.md) : Check the project_info file for the full breakdown.
 
-The model photos and working are also uploaded.
+💻 [Code](https://github.com/ishan-nagpure/Heat-Dection-Tracking-Project/blob/main/Project_Code.ino) : The complete source code is provided.
 
+📸 [Visuals](https://github.com/ishan-nagpure/Heat-Dection-Tracking-Project/tree/main/Working%20Model) : Model photos and a demo of the working project are uploaded.
 
-It took me a month to learn and create this project, I hope you all like it.
+I hope you like it! Feedback is always welcome. 🚀
